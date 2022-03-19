@@ -1,0 +1,13 @@
+maker delete from backend
+approver 1, 2 gives back to  maker
+
+Checking and Confirming
+Requirements, Designing, Coding, Testing, Maintenance
+Waterfall Model
+Test Cheatsheet
+Evaluating deliverable to find errors
+Recursion testing
+It is based on the nature of the project
+Sub-modules - Modules - System project
+All of the above
+SDLC Model
